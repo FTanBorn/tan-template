@@ -1,0 +1,17 @@
+{
+  "Index": {
+    "title": "Next.js Template",
+    "subtitle": "Multilingual and Theme-Enabled Starter Template",
+    "language": {
+      "title": "Language Support",
+      "description": "This template provides Turkish and English language support. You can easily switch between languages."
+    },
+    "theme": {
+      "title": "Theme Support",
+      "description": "Customize your experience by switching between light and dark themes.",
+      "light": "Light Theme",
+      "dark": "Dark Theme"
+    },
+    "footer": "© 2024 Next.js Template. All rights reserved."
+  }
+}

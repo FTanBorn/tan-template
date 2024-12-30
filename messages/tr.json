@@ -1,0 +1,17 @@
+{
+  "Index": {
+    "title": "Next.js Template",
+    "subtitle": "Çok Dilli ve Tema Destekli Başlangıç Şablonu",
+    "language": {
+      "title": "Dil Desteği",
+      "description": "Bu şablon Türkçe ve İngilizce dil desteği sunar. Diller arası geçişi kolayca yapabilirsiniz."
+    },
+    "theme": {
+      "title": "Tema Desteği",
+      "description": "Açık ve koyu tema arasında geçiş yaparak kullanıcı deneyiminizi özelleştirebilirsiniz.",
+      "light": "Açık Tema",
+      "dark": "Koyu Tema"
+    },
+    "footer": "© 2024 Next.js Template. Tüm hakları saklıdır."
+  }
+}
